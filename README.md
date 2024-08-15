@@ -1,5 +1,7 @@
 jimtoh.github.io
 
+![alt text](head-S.png)
+
 Welcome.
 
 In June 2024, after working for over 27 years at ST Engineering (no less under three UENs), I decided to take a break but was fortunate to quickly hold myself accountable by attending a few short but fulfilling 'sprints' in adult learniing programmes conducted by NUS Advanced Computing for Executives (ACE).
