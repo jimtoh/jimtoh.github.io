@@ -13,9 +13,10 @@ Other notable professional upskilling include:
 2. AIAP Foundation - Project-based learning on ML pipelines, AI Singapore
 3. NVIDIA - Certified Associate: Generative AI LLMs, NVIDIA
 
-** Never stop learning **
+**Never stop learning**
 
 Posted 18 July 2025
+
 ---
 
 Welcome.
