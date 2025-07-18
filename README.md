@@ -2,6 +2,22 @@ jimtoh.github.io
 
 ![alt text](head-S.png)
 
+Moving to another program by NTU PACE or Academy for Professional and Continuing Education, I will be completing (SCTP) Advanced Professional Certificate in Data Science and AI this end July 2025.
+
+Check out NTU PACE or Academy for Professional and Continuing Education:- https://www.ntu.edu.sg/pace/
+
+This full time course, about 3 months, prepares me for careers in Data Science, Data Engineering, Machine Learning, and AI. From Python and SQL, Big Data Engineering to Machine Learning and Generative AI as well as Full Stack Programming, I have learned to apply such tech skills in practical ways.
+
+Other notable professional upskilling include:
+1. Professional Certificate in Machine Learning Operations (MLOps), NUS
+2. AIAP Foundation - Project-based learning on ML pipelines, AI Singapore
+3. NVIDIA - Certified Associate: Generative AI LLMs, NVIDIA
+
+** Never stop learning **
+
+Posted 18 July 2025
+---
+
 Welcome.
 
 In June 2024, after working for over 27 years at ST Engineering (no less under three UENs), I decided to take a break but was fortunate to quickly hold myself accountable by attending a few short but fulfilling 'sprints' in adult learniing programmes conducted by NUS Advanced Computing for Executives (ACE).
