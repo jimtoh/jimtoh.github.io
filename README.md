@@ -2,9 +2,9 @@ jimtoh.github.io
 
 ![alt text](head-S.png)
 
-Moving to another program by NTU PACE or Academy for Professional and Continuing Education, I will be completing (SCTP) Advanced Professional Certificate in Data Science and AI this end July 2025.
+I am striving to become an AI Engineer. It's back to the trenches, beyond the comfort of a steadfast track, into winding roads filled with discovery.
 
-Check out NTU PACE or Academy for Professional and Continuing Education:- https://www.ntu.edu.sg/pace/
+I have completed a NTU PACE or Academy for Professional and Continuing Education -Advanced Professional Certificate in Data Science and AI, this end July 2025. Check out NTU PACE or Academy for Professional and Continuing Education:- https://www.ntu.edu.sg/pace/
 
 This full time course, about 3 months, prepares me for careers in Data Science, Data Engineering, Machine Learning, and AI. From Python and SQL, Big Data Engineering to Machine Learning and Generative AI as well as Full Stack Programming, I have learned to apply such tech skills in practical ways.
 
@@ -15,7 +15,7 @@ Other notable professional upskilling include:
 
 **Never stop learning**
 
-Posted 18 July 2025
+Posted 20 Nov 2025
 
 ---
 
